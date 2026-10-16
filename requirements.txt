@@ -1,0 +1,6 @@
+streamlit
+openai
+langsmith
+Pillow
+pdf2image
+pytesseract
